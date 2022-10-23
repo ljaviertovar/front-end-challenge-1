@@ -51,3 +51,7 @@ yarn install
 ```
 yarn dev
 ```
+
+### Result
+![image](https://user-images.githubusercontent.com/34925280/197416222-8be0fa49-0e75-4d47-933d-3f3e63dea34f.png)
+![image](https://user-images.githubusercontent.com/34925280/197416428-a9984194-0b93-4b78-926f-cacdbe4f8b29.png)
